@@ -15,7 +15,7 @@ baseurl: '/cv' #change it according to your repository name
 #Profile information
 name: Philipp Schweizer
 # tagline: 
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: profile-500.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 Email: ph.m.schweizer@gmail.com
